@@ -3,13 +3,13 @@
 
 <br>
 <h4>A little bit about me:</h4>
-- 🔭 I’m currently working on a [multi-player tetris game](https://github.com/NatsuDrag9/tetris-multiplayer) that uses websockets.
+- 🔭 I’m currently working on [a multi-player tetris game](https://github.com/NatsuDrag9/tetris-multiplayer) that uses websockets.
 
 - 🌱 I’m currently learning **django, postgresql**
 
 - 👨‍💻 All of my projects will soon be available in my portfolio. Meanwhile, take a look at [my github repos](https://github.com/NatsuDrag9?tab=repositories)
 
-- 📝 I write articles on [https://medium.com/@rohitimandi](https://medium.com/@rohitimandi)
+- 📝 I write articles on [medium](https://medium.com/@rohitimandi)
 
 - 💬 Ask me about **software, anime, retro games and pokemon**
 
