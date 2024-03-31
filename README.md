@@ -3,7 +3,7 @@
 
 <br>
 <h4>A little bit about me:</h4>
-- 🔭 I’m currently working on [tetris-multiplayer (under development)](https://github.com/NatsuDrag9/tetris-multiplayer)
+- 🔭 I’m currently working on [tetris-multiplayer](https://github.com/NatsuDrag9/tetris-multiplayer) (under development)
 
 - 🌱 I’m currently learning **django, postgresql**
 
