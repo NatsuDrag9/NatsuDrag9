@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **software, anime, retro games and pokemon**
 
-- 📫 How to reach me **rohitimandi9@zoho.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/rohit-imandi/)**
 
 - ⚡ Fun fact **Life and programming have a lot in common. Programming is fixing one bug/issue at a time while life is living one day at a time. In both, we hope not to break something when pushing an update.**
 
