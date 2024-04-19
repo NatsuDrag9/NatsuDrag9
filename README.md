@@ -3,7 +3,8 @@
 
 <br>
 <h4>A little bit about me:</h4>
-- 🔭 I’m currently working on [a multiplayer tetris game](https://github.com/NatsuDrag9/tetris-multiplayer) that uses websockets.
+
+- 🔭 I’m currently working on [a multiplayer tetris game](https://github.com/NatsuDrag9/tetris-multiplayer) that uses websockets
 
 - 🌱 I’m currently learning **django, postgresql**
 
