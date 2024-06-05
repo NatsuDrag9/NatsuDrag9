@@ -4,11 +4,7 @@
 <br>
 <h4>A little bit about me:</h4>
 
-- 🔭 I’m currently working on [a multiplayer tetris game](https://github.com/NatsuDrag9/tetris-multiplayer) that uses websockets
-
-- 🌱 I’m currently learning **django, postgresql**
-
-- 👨‍💻 All of my projects will soon be available in my portfolio. Meanwhile, take a look at [my github repos](https://github.com/NatsuDrag9?tab=repositories)
+- 👨‍💻 All of my projects will soon be available in my portfolio. Meanwhile, take a look at the **pinned repos** below.
 
 - 📝 I write articles on [medium](https://medium.com/@rohitimandi)
 
@@ -17,6 +13,10 @@
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/rohit-imandi/)**
 
 - ⚡ Fun fact **Life and programming have a lot in common. Programming is fixing one bug/issue at a time while life is living one day at a time. In both, we hope not to break something when pushing an update.**
+
+- For **recruiters / potential employers:**
+-   Fullstack app - [Tetris multiplayer game]([https://github.com/NatsuDrag9/tetris-multiplayer](https://github.com/NatsuDrag9/tetris-multiplayer/wiki/Recruiters))
+-   Embedded Software - [Serial Protocol Driver from scratch](https://github.com/NatsuDrag9/STM32f413xx-drivers-from-scratch/wiki/Recruiters)
 
 <br>
 <h3 align="left">Connect with me:</h3>
