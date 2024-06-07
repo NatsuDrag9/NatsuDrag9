@@ -14,9 +14,7 @@
 
 - ⚡ Fun fact **Life and programming have a lot in common. Programming is fixing one bug/issue at a time while life is living one day at a time. In both, we hope not to break something when pushing an update.**
 
-- For **recruiters / potential employers:**
-  -   Fullstack app - [Tetris multiplayer game](https://github.com/NatsuDrag9/tetris-multiplayer/wiki/Recruiters)
-  -   Embedded Software - [Serial Protocol Driver from scratch](https://github.com/NatsuDrag9/STM32f413xx-drivers-from-scratch/wiki/Recruiters)
+- This is my [portfolio](https://natsudrag9.github.io/)
 
 <br>
 <h3 align="left">Connect with me:</h3>
