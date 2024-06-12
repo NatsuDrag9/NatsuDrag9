@@ -4,8 +4,6 @@
 <br>
 <h4>A little bit about me:</h4>
 
-- 👨‍💻 All of my projects will soon be available in my portfolio. Meanwhile, take a look at the **pinned repos** below.
-
 - 📝 I write articles on [medium](https://medium.com/@rohitimandi)
 
 - 💬 Ask me about **software, anime, retro games and pokemon**
@@ -14,7 +12,7 @@
 
 - ⚡ Fun fact **Life and programming have a lot in common. Programming is fixing one bug/issue at a time while life is living one day at a time. In both, we hope not to break something when pushing an update.**
 
-- This is my [portfolio](https://github.com/NatsuDrag9/portfolio-main)
+- This is my [portfolio](https://github.com/NatsuDrag9/portfolio-main) and their **repos pinned** below.
 
 <br>
 <h3 align="left">Connect with me:</h3>
