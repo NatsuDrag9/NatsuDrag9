@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h4 align="center">A versatile software developer with experience in fullstack development. While I've professional experience in fullstack development, it's fun to work with the entire stack - from developing engaging web applications that constantly interact with users to writing low-level firmware that hardly gets noticed by the end-user. I'm currently looking for jobs in fullstack and frontend development.</h4>
+<h4 align="center">A versatile software developer with experience in fullstack development. While I've professional experience in fullstack development, it's fun to work with the entire stack - from developing engaging web applications that constantly interact with users to writing low-level firmware that hardly gets noticed by the end-user.</h4>
 
 <br>
 <h4>A little bit about me:</h4>
